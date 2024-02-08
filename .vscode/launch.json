@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mateocisneros/VisualCode/Segundo_Semestre/Progreso_3/Cisneros_Recuperacion",
+      "program": "/Users/mateocisneros/VisualCode/Segundo_Semestre/Progreso_3/Cisneros_Recuperacion/build/Debug/outDebug"
+    }
+  ]
+}
