@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<string.h>
 
+//Leer README.md para entender el problema
+
 //Estructura de datos
 struct alumnos
 {
