@@ -1,0 +1,4 @@
+Nombre		Apellido		Carrera		Nota1		Nota2		Nota3		Promedio
+Mateo		Cisneros		soft		1.00		1.00		1.00		1.00
+Juan		Perez		soft		2.00		2.00		2.00		2.00
+Alberto		Ramirez		soft		3.00		3.00		3.00		3.00
